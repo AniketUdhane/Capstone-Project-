@@ -1,0 +1,2 @@
+# Capstone-Project-
+File includes Homepage.html - For displaying Friendship Zone Home page  FriendList.html - For displaying details of people already available at Friendship Zone  RegistrationForm.html - For displaying the form to enroll yourself at Friendship Zone  RegistrationConfirmation.html - For successful registration of the user  RegistrationConfirmationforAdmin.html - For successful registration of admin
